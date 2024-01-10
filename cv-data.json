@@ -1,0 +1,33 @@
+{
+    "sections": [
+        {
+            "title": "Education",
+            "items": [
+                "High school diploma - P.M.G. 'Vasil Drumev', 2017-2022",
+                "Software and Hardware Science",
+                "Bachelor's Degree - Sofia University St. Kliment Ohridski, 2022-now",
+                "Information Systems"
+            ]
+        },
+        {
+            "title": "Professional Experience",
+            "items": [
+                "Web Site Designer - CreateX Digital Agency, 2021-2022",
+                "My role involved creating responsive, efficient websites while adhering to the latest design trends and technologies."
+            ]
+        },
+        {
+            "title": "Skills",
+            "items": [
+                "Soft Skills: Teamwork, Communication, Problem Solving",
+                "Technical Skills: HTML, CSS, C++, C#, Adobe Creative Cloud and CorelDRAW Graphic Suite"
+            ]
+        },
+        {
+            "title": "Languages",
+            "items": [
+                "Bulgarian, Russian, English"
+            ]
+        }
+    ]
+}
